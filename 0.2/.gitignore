@@ -1,0 +1,6 @@
+.settings
+.project
+.buildpath
+/yii
+/composer.lock
+/nbproject/private/
